@@ -12,7 +12,7 @@ object pian {
   def weixing:PartialFunction[String,String] = {
     case "WEIXING" => "123"
     case "ppo" => "wwwww"
-    case _ => "WWWWWWW"
+    case _ => "WWWWWWW123456"
   }
   def main(args: Array[String]): Unit = {
     println(weixing("12"))
