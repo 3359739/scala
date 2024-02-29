@@ -15,3 +15,6 @@ object day1 {
        wei(15)("WEEe")
   }
 }
+
+
+
